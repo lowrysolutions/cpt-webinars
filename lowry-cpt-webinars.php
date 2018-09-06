@@ -3,7 +3,7 @@
  * Plugin Name: CPT Webinars
  * Plugin URI: https://github.com/lowrysolutions/cpt-webinars
  * Description: Creates the "Webinars" Custom Post Type
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: lowry-cpt-webinars
  * Author: Eric Defore
  * Author URI: http://realbigmarketing.com/
