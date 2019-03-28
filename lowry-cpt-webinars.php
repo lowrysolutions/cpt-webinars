@@ -9,7 +9,7 @@
  * Author URI: http://realbigmarketing.com/
  * Contributors: d4mation
  * GitHub Plugin URI: lowrysolutions/cpt-webinars
- * GitHub Branch: master
+ * GitHub Branch: develop
  */
 
 // Exit if accessed directly
